@@ -7,10 +7,9 @@ You'll need to add an API key for [Etherscan](https://etherscan.io/apis) in a co
 ## Installation
 
 1. Clone this repo.
-2. Run `$ yarn install` (or `$ npm install`).
-3. Go to Brave extension settings (brave://extensions/) or Chrome extension settings (chrome://extensions/).
-4. Toggle Developer mode on.
-5. Click on `Load unpacked` and choose the local folder where this repository is cloned.
+2. Go to Brave extension settings (brave://extensions/) or Chrome extension settings (chrome://extensions/).
+3. Toggle Developer mode on.
+4. Click on `Load unpacked` and choose the local folder where this repository is cloned.
 
 ## Usage
 
